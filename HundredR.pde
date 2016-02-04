@@ -79,6 +79,6 @@ void instructions()
 {
   fill(150);
   textSize(11);
-  text("Press X to make a storm. Press Y to make it calm again.", 10, 280);
+  text("Press X to make a storm. Press Z to make it calm again.", 10, 280);
 }
 
